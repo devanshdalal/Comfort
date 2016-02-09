@@ -1,0 +1,11 @@
+{
+	"name": "Comfort",
+	"theme": "syntax",
+	"version": "0.0.1",
+	"description": "A comfortable theme for text editors",
+	"repository": "https://github.com/devanshdalal",
+	"license": "MIT",
+	// "engines": {
+	// 	"atom": ">0.50.0"
+	// }
+}
