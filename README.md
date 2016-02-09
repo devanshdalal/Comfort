@@ -3,7 +3,7 @@
 > A Wonderful theme for sublime Text!
 
 <p align="center">
-   <img align="centre" src="https://raw.githubusercontent.com/vicky002/Milotic/master/images/Milotic.png" alt="Comfort" width="200px" height="200px"/>
+   <img align="centre" src="https://github.com/devanshdalal/Comfort/blob/master/images/screen.png" alt="Comfort" width="200px" height="200px"/>
 </p>
 
 
@@ -24,6 +24,7 @@ Milotic in the packages list. After this you should be able to select Milotic co
 by browsing **Preferences -> Color Scheme -> Milotic -> Milotic**
 
 See Milotic in [package control web page](https://packagecontrol.io/packages/Milotic) -->
+
 
 
 ### Manual Install
@@ -49,9 +50,9 @@ See Milotic in [package control web page](https://packagecontrol.io/packages/Mil
 
 **Credits**: Inspired by [@vicky002](https://github.com/vicky002) [Miltonic](https://github.com/vicky002/Milotic).
 
-**License**: MIT ® [Devansh Dalal](https://github.com/vicky002/Milotic/blob/master/LICENSE).
+**License**: MIT ® [Devansh Dalal](https://github.com/devanshdalal/Comfort/blob/master/LICENSE).
 
 
 ## Sublime Text
 
-![Sublime Example]()
+![Sublime Example](https://github.com/devanshdalal/Comfort/blob/master/images/screen2.png)
